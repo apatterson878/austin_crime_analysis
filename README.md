@@ -60,7 +60,7 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 
 ###### 4. Does population influence the crime rate in a zip code?
 
-<img src="/r/Images/crime_rate_and_population.png">
+<img src="/Images/crime_rate_and_population.png">
 
 * There is a weak positive (14%) correlation between population and crime rates. 
 * Zip codes that are zoned with a lot of commercial areas tend to have low populations with higher reports of crime. 
