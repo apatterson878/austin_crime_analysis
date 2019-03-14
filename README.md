@@ -41,7 +41,7 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 
 ###### 2. Is there a correlation between housing prices and crime rate? 
 
-<img src="/Images/popcrimecostpercentchangeBAR.png">
+<img src="/Images/popcrimecostpercentchangeBARTEST.png">
 
 * Overall, population and median home cost in Austin increased between 2011 and 2016.
 * There appears to be similarities in the rate of increase for both population and median home cost.
